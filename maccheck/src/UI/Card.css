@@ -1,0 +1,13 @@
+.card {
+    padding: 6rem;
+    width: 10%;
+    margin: 3rem auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background-color: white;
+    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  
